@@ -1,0 +1,5 @@
+<svg width="120" height="40" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="30" font-size="28" font-family="Segoe UI, sans-serif" fill="#3e8ed0">
+    Currency<tspan fill="#ffffff">X</tspan>
+  </text>
+</svg>
